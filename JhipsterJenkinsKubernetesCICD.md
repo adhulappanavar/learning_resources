@@ -26,6 +26,14 @@ Demo of how to get a scalable lightweight Jenkins infrastructure up and running 
 #### Jenkins CD to Kubernetes - BoxBoat Technologies
 [![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/3dVwgTaLqtc/0.jpg)](https://www.youtube.com/watch?v=3dVwgTaLqtc)
 -----
+
+[Introduction to Continuous Integration with JHipster](https://blog.ippon.tech/continuous-integration-with-jhipster/)
+![](https://github.com/adhulappanavar/learning_resources/raw/master/images/How%20to%20Build%20Cloud-Native%20CICD%20Pipelines%20With%20Tekton%20on%20Kubernetes%20Speakers%20Nikhil%20Thomas.png)
+
+
+
+
+-----
 -----
 # Spinaker
 
