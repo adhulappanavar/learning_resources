@@ -22,6 +22,14 @@ Janakiram MSV
 [![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/eMOzF_xAm7w/0.jpg)](https://www.youtube.com/watch?v=eMOzF_xAm7w)
 Demo of how to get a scalable lightweight Jenkins infrastructure up and running deploying your apps to Kubernetes in under 5 minutes - Croc Hunting Demo !!!
 
+##### Never version of Croc-Hunter 
+https://github.com/carlossg/croc-hunter-jenkinsx
+
+[![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/3VHVsgBTyo/0.jpg)](https://www.youtube.com/watch?v=3VHVsgBTyo&t=1064s)
+
+https://www.youtube.com/watch?v=-3VHVsgBTyo&t=1064s
+
+
 ----
 #### Jenkins CD to Kubernetes - BoxBoat Technologies
 [![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/3dVwgTaLqtc/0.jpg)](https://www.youtube.com/watch?v=3dVwgTaLqtc)
