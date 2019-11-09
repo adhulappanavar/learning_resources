@@ -27,3 +27,17 @@ Add CI/CD to Your Spring Boot App with Jenkins X and Kubernetes
 https://jenkins-x.io/commandsjx_create_jhipster
 
 ----
+
+##### Never version of Croc-Hunter by Carlos Sanchez using JenkinsX 
+https://github.com/carlossg/croc-hunter-jenkinsx
+
+https://github.com/carlossg/croc-hunter-java
+
+Progressive Delivery: Continuous Delivery the Right Way - Speakers: Carlos Sanchez
+
+[![Mithun width="240" height="180" border="100"](https://i.ytimg.com/vi/-3VHVsgBTyo/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==\u0026rs=AOn4CLA4WBSZOMUCsKply7i0ujVkqOtZPQ)](https://www.youtube.com/watch?v=3VHVsgBTyo&t=1064s)
+
+
+
+https://www.youtube.com/watch?v=-3VHVsgBTyo&t=1064s
+
