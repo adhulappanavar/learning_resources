@@ -25,6 +25,8 @@ Demo of how to get a scalable lightweight Jenkins infrastructure up and running 
 ##### Never version of Croc-Hunter 
 https://github.com/carlossg/croc-hunter-jenkinsx
 
+https://github.com/carlossg/croc-hunter-java
+
 Progressive Delivery: Continuous Delivery the Right Way - Speakers: Carlos Sanchez
 
 [![Mithun width="240" height="180" border="100"](https://i.ytimg.com/vi/-3VHVsgBTyo/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==\u0026rs=AOn4CLA4WBSZOMUCsKply7i0ujVkqOtZPQ)](https://www.youtube.com/watch?v=3VHVsgBTyo&t=1064s)
