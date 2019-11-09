@@ -28,10 +28,19 @@ Demo of how to get a scalable lightweight Jenkins infrastructure up and running 
 -----
 
 [Introduction to Continuous Integration with JHipster](https://blog.ippon.tech/continuous-integration-with-jhipster/)
-![](https://github.com/adhulappanavar/learning_resources/raw/master/images/How%20to%20Build%20Cloud-Native%20CICD%20Pipelines%20With%20Tekton%20on%20Kubernetes%20Speakers%20Nikhil%20Thomas.png)
+![](https://github.com/adhulappanavar/learning_resources/raw/master/images/Introduction%20to%20Continuous%20Integration%20with%20JHipster%20-%20Ippon%20Technologies.png)
 
+https://blog.ippon.tech/continuous-integration-with-jhipster/
 
+----
+[Introduction to Continuous Integration with JHipster - Ippon Technologies](https://github.com/adhulappanavar/learning_resources/raw/master/docs/JHipster-for-techies-Hipster-developer-diary.pdf)
 
+How We Built a CRM System in One Week with JHipster 4
+As a developer with ever-pressing deadlines, you can shine by quickly building new web apps that are enterprise ready. Follow Kile Niklawski, Olivia Deputy, Ford Hatfield, and Aaron Throckmorton as they race against the clock to build a CRM system MVP and learn about the technologies used by JHipster 4 along the way. * Get an overview of the technology stack of JHipster 
+* How to use JHipster to quickly develop an MVP 
+* Develop cloud-ready web apps using JHipster 
+
+https://github.com/adhulappanavar/learning_resources/raw/master/docs/JHipster-for-techies-Hipster-developer-diary.pdf
 
 -----
 -----
