@@ -13,6 +13,8 @@
 ### a) How to Build Cloud-Native CI/CD Pipelines With Tekton on Kubernetes - Speakers: Nikhil Thomas
 [![SKAFFOLD](https://img.youtube.com/vi/-ji5Z0qJmJs/0.jpg)](https://www.youtube.com/watch?v=-ji5Z0qJmJs)
 
+![](https://github.com/adhulappanavar/learning_resources/raw/master/images/How%20to%20Build%20Cloud-Native%20CICD%20Pipelines%20With%20Tekton%20on%20Kubernetes%20Speakers%20Nikhil%20Thomas.png)
+
 
 
 ### b) Tekton Project Showcase - Christie Wilson, Jason Hall
