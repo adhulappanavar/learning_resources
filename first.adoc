@@ -1,7 +1,8 @@
-== Included Section
+== Jhipster, Kubernetes, Istio
 
-Look, I came from out of the [blue]#blue#!
+All resources reagarding Jhipster Kubernets and Istio
 
+=== Jhipster Application on Docker Compose
 --
 I'm keepin' it open.
 
