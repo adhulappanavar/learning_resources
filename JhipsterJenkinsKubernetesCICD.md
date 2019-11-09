@@ -27,7 +27,9 @@ https://github.com/carlossg/croc-hunter-jenkinsx
 
 Progressive Delivery: Continuous Delivery the Right Way - Speakers: Carlos Sanchez
 
-[![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/3VHVsgBTyo/0.jpg)](https://www.youtube.com/watch?v=3VHVsgBTyo&t=1064s)
+[![Mithun width="240" height="180" border="100"](https://i.ytimg.com/vi/-3VHVsgBTyo/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==\u0026rs=AOn4CLA4WBSZOMUCsKply7i0ujVkqOtZPQ)](https://www.youtube.com/watch?v=3VHVsgBTyo&t=1064s)
+
+
 
 https://www.youtube.com/watch?v=-3VHVsgBTyo&t=1064s
 
