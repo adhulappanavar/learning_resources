@@ -35,6 +35,9 @@ https://blog.ippon.tech/continuous-integration-with-jhipster/
 ----
 [Introduction to Continuous Integration with JHipster - Ippon Technologies](https://github.com/adhulappanavar/learning_resources/raw/master/docs/JHipster-for-techies-Hipster-developer-diary.pdf)
 
+[](https://blog.ippon.tech/continuous-integration-with-jhipster/)
+![](https://github.com/adhulappanavar/learning_resources/raw/master/images/How%20We%20Built%20a%20CRM%20System%20in%20One%20Week%20with%20JHipster.png)
+
 How We Built a CRM System in One Week with JHipster 4
 As a developer with ever-pressing deadlines, you can shine by quickly building new web apps that are enterprise ready. Follow Kile Niklawski, Olivia Deputy, Ford Hatfield, and Aaron Throckmorton as they race against the clock to build a CRM system MVP and learn about the technologies used by JHipster 4 along the way. * Get an overview of the technology stack of JHipster 
 * How to use JHipster to quickly develop an MVP 
