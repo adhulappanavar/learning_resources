@@ -18,4 +18,4 @@
 ### b) Tekton Project Showcase - Christie Wilson, Jason Hall
 [![SKAFFOLD](https://i.ytimg.com/vi/V0LpYdnTpsg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==\u0026rs=AOn4CLAs_sDwTD34ixYIymtxFyOVLqlZWA)](https://www.youtube.com/watch?v=-V0LpYdnTps)
 
-![](https://github.com/adhulappanavar/learning_resources/raw/master/images/Jenkins%20X%20Project%20Showcase%20-%20James%20Strachan%2C%20Laura%20Tacho.png)
+![](https://github.com/adhulappanavar/learning_resources/raw/master/images/Tekton%20Project%20Showcase%20-%20Christie%20Wilson%20Jason%20Hall.png)
