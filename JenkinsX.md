@@ -8,3 +8,22 @@
 ## JOTB19 - Serverless Continuous Delivery of Microservices on Kubernetes with Jenkins X by Paolo Carta
 
 [![JxPaolo width="240" height="180" border="100"](https://img.youtube.com/vi/b6L1u5G7JN0/0.jpg)](https://www.youtube.com/watch?v=b6L1u5G7JN0)
+
+----
+## Dailymotion’s journey from Jenkins to Jenkins X
+https://medium.com/dailymotion/from-jenkins-to-jenkins-x-604b6cde0ce3
+
+This is a tale of Dailymotion’s journey from Jenkins to Jenkins X, the issues we had, and how we solved them.
+
+----
+
+Add CI/CD to Your Spring Boot App with Jenkins X and Kubernetes
+[](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes)
+
+
+----
+[JX Create Jhipster ](https://jenkins-x.io/commandsjx_create_jhipster/)
+
+https://jenkins-x.io/commandsjx_create_jhipster
+
+----

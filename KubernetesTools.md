@@ -44,3 +44,13 @@
 [![SKAFFOLD](https://img.youtube.com/vi/dIs8FwJzVI8/0.jpg)](https://www.youtube.com/watch?v=dIs8FwJzVI8)
 
 ----
+
+### The ultimate guide for local development on Kubernetes: Draft vs Skaffold vs Garden.io
+
+![](https://miro.medium.com/max/3340/1*0rzNq-I1SlV2XaVA4BeAOA.png)
+
+
+https://medium.com/containers-101/the-ultimate-guide-for-local-development-on-kubernetes-draft-vs-skaffold-vs-garden-io-26a231c71210
+
+
+-----
