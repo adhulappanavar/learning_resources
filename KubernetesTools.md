@@ -65,4 +65,13 @@ https://www.youtube.com/watch?v=bkC1spGOI7Y
 
 https://github.com/aboullaite/java-k8s-dev
 
+![](https://raw.githubusercontent.com/aboullaite/java-k8s-dev/master/petstore/petstore.png)
+
+
+##### Docker & Java: What I wish I had been told by Aboullaite Mohammed at DevOps Unicorns
+
+[![SKAFFOLD](https://img.youtube.com/vi/YbYPNSVP0zU/0.jpg)](https://www.youtube.com/watch?v=-YbYPNSVP0zU)
+
+
+
 ----
