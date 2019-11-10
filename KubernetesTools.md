@@ -54,3 +54,15 @@ https://medium.com/containers-101/the-ultimate-guide-for-local-development-on-ku
 
 
 -----
+
+#### Speedy build for your java application images with JIB! by Mohammed Aboullaite
+
+JIB --> Skaffold--> Helm
+
+[![SKAFFOLD](https://img.youtube.com/vi/bkC1spGOI7Y/0.jpg)](https://www.youtube.com/watch?v=-bkC1spGOI7Y)
+
+https://www.youtube.com/watch?v=bkC1spGOI7Y
+
+https://github.com/aboullaite/java-k8s-dev
+
+----
