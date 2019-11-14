@@ -41,3 +41,19 @@ Progressive Delivery: Continuous Delivery the Right Way - Speakers: Carlos Sanch
 
 https://www.youtube.com/watch?v=-3VHVsgBTyo&t=1064s
 
+
+
+----
+ DevOps Playground: Hands on with Jenkins X
+[![JxPaolo](https://img.youtube.com/vi/c7_KThiRKEM/0.jpg)](https://www.youtube.com/watch?v=c7_KThiRKEM)
+
+
+https://youtu.be/c7_KThiRKEM
+
+
+----
+
+Our Experience Running Jenkins X in Production Vincent Behar
+[![JxPaolo](https://img.youtube.com/vi/KkGxyssqwJM/0.jpg)](https://www.youtube.com/watch?v=KkGxyssqwJM)
+https://youtu.be/KkGxyssqwJM
+----
