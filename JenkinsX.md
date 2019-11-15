@@ -57,3 +57,10 @@ Our Experience Running Jenkins X in Production Vincent Behar
 [![JxPaolo](https://img.youtube.com/vi/KkGxyssqwJM/0.jpg)](https://www.youtube.com/watch?v=KkGxyssqwJM)
 https://youtu.be/KkGxyssqwJM
 ----
+
+Pipelines in Jenkins X
+[![JxPaolo](https://img.youtube.com/vi/HkwodLf6rd0/0.jpg)](https://www.youtube.com/watch?v=HkwodLf6rd0)
+https://youtu.be/HkwodLf6rd0
+
+
+----
