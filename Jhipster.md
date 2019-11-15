@@ -28,3 +28,14 @@ https://www.youtube.com/watch?v=XHMnraI2Pg8
 [![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/XHMnraI2Pg8/0.jpg)](https://www.youtube.com/watch?v=XHMnraI2Pg8)
 
 ----
+
+[![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/TkUFU4OunTA/0.jpg)](https://www.youtube.com/watch?v=TkUFU4OunTA)
+https://www.youtube.com/watch?v=TkUFU4OunTA
+
+https://github.com/PierreBesson/demo-vxdms-2019
+https://github.com/PierreBesson/jhipster-circuit-breaker-demo
+
+
+http://pierre-besson.fr/pres-vxdms-2019/#/
+
+----

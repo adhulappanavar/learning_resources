@@ -64,3 +64,16 @@ https://youtu.be/HkwodLf6rd0
 
 
 ----
+
+[![JxPaolo](https://img.youtube.com/vi/CyZklExpEd4/0.jpg)](https://www.youtube.com/watch?v=CyZklExpEd4)
+
+https://www.youtube.com/watch?v=CyZklExpEd4
+
+https://github.com/joostvdg/jenkinsx-workshop-demos
+
+https://joostvdg.github.io/
+
+https://github.com/joostvdg/jenkinsx-workshop-demos/blob/master/docs/devoxx/quickstart.md
+
+Good one - do see it !!!
+----
