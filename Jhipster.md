@@ -39,3 +39,15 @@ https://github.com/PierreBesson/jhipster-circuit-breaker-demo
 http://pierre-besson.fr/pres-vxdms-2019/#/
 
 ----
+
+https://www.youtube.com/playlist?list=PL5zqnt1ZMVL95co2xogkG9bohbY92zn1_
+
+https://www.linkedin.com/in/ahmed-dini-16597640/
+
+https://github.com/luulsolutions
+
+https://github.com/luulsolutions/luulpos_backend/blob/master/luulpos.jdl
+
+
+
+----
