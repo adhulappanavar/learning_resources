@@ -77,3 +77,33 @@ https://github.com/joostvdg/jenkinsx-workshop-demos/blob/master/docs/devoxx/quic
 
 Good one - do see it !!!
 ----
+## From Monolith to Kubernetes using JenkinsX and Zeebe by Salaboy
+
+[![Salaboy](https://img.youtube.com/vi/bVQ_XdiGq94/0.jpg)](https://www.youtube.com/watch?v=bVQ_XdiGq94)
+
+
+https://www.youtube.com/watch?v=bVQ_XdiGq94
+https://salaboy.com/2019/11/07/from-monolith-to-k8s-soujava/
+
+
+https://salaboy.com/2019/10/17/jenkins-x-spring-cloud-zeebe-geecon-prague-2019/
+
+
+First I showed how to deploy a monolith application to Kubernetes (GKE) using Jenkins X and then I jumped to split the application into 4 micro services.
+
+I showed how when splitting micro services using Spring Cloud Gateway can help you route requests to services that are not exposed outside the Kubernetes cluster. You can find the example here: demo-conference-site
+
+Once I have my 4 micro services working and connecting to each other, I introduced Zeebe to automate and takes care of the services orchestration. This included modifications to add the Zeebe Client Spring Boot integration to my C4P project to deploy and create new instances of the workflow and then I’ve modified the Agenda service to serve as a Zeebe Worker to pickup Job from the orchestration engine. You can find the Zeebe integration example here: demo-conference-c4p
+
+
+The source code for this services can be found here:
+
+demo-conference-monolith - http://github.com/salaboy/demo-conference-monolith
+demo-conference-site - http://github.com/salaboy/demo-conference-site
+demo-conference-c4p - http://github.com/salaboy/demo-conference-c4p
+demo-conference-agenda - http://github.com/salaboy/demo-conference-agenda
+demo-conference-email - http://github.com/salaboy/demo-conference-email
+
+Note : Replace "I" with "Salaboy" :-)
+
+----
