@@ -51,3 +51,14 @@ https://github.com/luulsolutions/luulpos_backend/blob/master/luulpos.jdl
 
 
 ----
+
+## Build a Photo Gallery PWA with React, Spring Boot, and JHipster 5 - Modify Jhipster Code
+
+[![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/GlJWUqy1SJM/0.jpg)](https://www.youtube.com/watch?v=GlJWUqy1SJM)
+
+https://www.youtube.com/watch?v=GlJWUqy1SJM&feature=emb_logo
+
+https://developer.okta.com/blog/2018/06/25/react-spring-boot-photo-gallery-pwa
+
+
+-----
