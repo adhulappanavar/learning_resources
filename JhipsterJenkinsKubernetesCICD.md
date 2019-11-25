@@ -71,6 +71,11 @@ As a developer with ever-pressing deadlines, you can shine by quickly building n
 
 https://github.com/adhulappanavar/learning_resources/raw/master/docs/JHipster-for-techies-Hipster-developer-diary.pdf
 
+
+https://github.com/adhulappanavar/learning_resources/raw/master/docs/JHipster-minibook-aprilv-1556109659909.pdf
+
+https://github.com/adhulappanavar/learning_resources/raw/master/docs/JHipster-minibook-aprilv-1556109659909.pdf
+
 -----
 -----
 # Spinaker
