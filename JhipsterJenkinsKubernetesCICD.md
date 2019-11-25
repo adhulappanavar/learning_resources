@@ -74,7 +74,7 @@ https://github.com/adhulappanavar/learning_resources/raw/master/docs/JHipster-fo
 
 https://github.com/adhulappanavar/learning_resources/raw/master/docs/JHipster-minibook-aprilv-1556109659909.pdf
 
-https://github.com/adhulappanavar/learning_resources/raw/master/docs/JHipster-minibook-aprilv-1556109659909.pdf
+https://github.com/adhulappanavar/learning_resources/raw/master/docs/FULL_STACK_DEVELOPMENT_WITH_JHIPSTER.pdf
 
 -----
 -----
