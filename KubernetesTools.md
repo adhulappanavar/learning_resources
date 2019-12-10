@@ -75,3 +75,17 @@ https://github.com/aboullaite/java-k8s-dev
 
 
 ----
+##### Plumbing Kubernetes builds | deploy with Tekton | DevNation Live by Kamesh Sampath
+
+[![SKAFFOLD](https://img.youtube.com/vi/q5P2V_YShjA/0.jpg)](https://www.youtube.com/watch?v=-q5P2V_YShjA)
+
+
+https://www.youtube.com/watch?v=q5P2V_YShjA
+
+https://github.com/kameshsampath?tab=repositories
+
+https://github.com/kameshsampath/pipeline-helloworld
+
+https://slidr.io/kameshsampath/plumbing-kubernetes-builds-deploy-with-tekton#1
+
+--------
