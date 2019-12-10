@@ -1,4 +1,16 @@
 
+### MUST WATCH - KONG USAGE in K8S - Adding Auth Dynamically
+
+kong operator demo by Steve Sloka
+[![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/ZzCXcmaikeg/0.jpg)](https://www.youtube.com/watch?v=ZzCXcmaikeg)
+
+https://www.youtube.com/watch?v=ZzCXcmaikeg
+
+https://github.com/upmc-enterprises/kong-operator
+
+
+-----
+
 ## API Management Softwares
 
 https://www.youtube.com/watch?v=JXdd_D4R17s&list=PL_OwzAze_jNtvxroEljBC5vj1dLd44uL3&index=4
