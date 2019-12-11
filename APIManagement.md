@@ -8,6 +8,21 @@ https://www.youtube.com/watch?v=ZzCXcmaikeg
 
 https://github.com/upmc-enterprises/kong-operator
 
+## Kong and Istio: Setting up Service Mesh on Kubernetes with Kiali for Observability
+
+![](https://2tjosk2rxzc21medji3nfn1g-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/Kong-Istio-1024x803.png)
+
+https://2tjosk2rxzc21medji3nfn1g-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/Kong-Istio-1024x803.png
+
+https://konghq.com/blog/kong-istio-setting-service-mesh-kubernetes-kiali-observability/
+
+-----
+### Microservices Orchestration with Kong, Galileo & Gelato (Webinar)
+
+
+[![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/brsIQgafg-c/0.jpg)](https://www.youtube.com/watch?v=brsIQgafg-c)
+
+https://www.youtube.com/watch?v=brsIQgafg-c
 
 -----
 
