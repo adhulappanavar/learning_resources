@@ -25,7 +25,6 @@ https://www.youtube.com/watch?v=6-7F1ajWLhU
 
 
 -----
-CT19onxnBB0
 
 ### Chapter#15-Difference between Clearing and Settlement| Basics of Clearing and Settlement
 

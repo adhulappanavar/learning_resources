@@ -15,8 +15,6 @@ https://www.npmjs.com/package/iso_8583
 https://github.com/zemuldo/iso_8583
 ----
 
-[PaymentsExpert_ISO_8583_20022_OrlandoOlumideOdejide]()
-![](https://github.com/adhulappanavar/learning_resources/raw/master/images/PaymentsExpert_ISO_8583_20022_OrlandoOlumideOdejide.png)
 
 
 -----

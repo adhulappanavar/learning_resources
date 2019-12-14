@@ -22,5 +22,3 @@ https://www.youtube.com/watch?v=Ilx6isDrXEU
 
 ----
 
-
-Convert ISO20022 camt.054.xml to ESR files ESR Gutschriften Einzahlungsscheine - https://www.npmjs.com/package/iso2esr
