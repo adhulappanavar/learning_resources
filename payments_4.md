@@ -1,9 +1,13 @@
 
 ## Payments Misc
 
+### Lesson 3.1: Payment messages - Hervé Zenner
+
+[![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/zFrBJZD83AY/0.jpg)](https://www.youtube.com/watch?v=zFrBJZD83AY)
 
 
 
+https://www.youtube.com/watch?v=zFrBJZD83AY
 ----
 
 ### SWIFT - Real-Time Payment Solutions - FedPayments Improvement
