@@ -6,6 +6,19 @@
 
 ----
 
+### SWIFT - Real-Time Payment Solutions - FedPayments Improvement
+
+[PaymentGateway_SWIFT_ISO20022]()
+![](https://github.com/adhulappanavar/learning_resources/raw/master/images/PaymentGateway_SWIFT_ISO20022.png)
+
+
+
+Only one small video
+
+
+[![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/t_lPPxUwdM0/0.jpg)](https://www.youtube.com/watch?v=t_lPPxUwdM0)
+
+https://www.youtube.com/watch?v=t_lPPxUwdM0
 -----
 
 ### Introduction to ISO8583 - Rajesh Avanthi 
