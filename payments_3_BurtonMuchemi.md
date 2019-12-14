@@ -30,3 +30,12 @@ https://github.com/zemuldo/iso_8583
 https://www.youtube.com/watch?v=1xNjSe4seCM
 
 ----
+
+
+[iso 8583 parser - introduction by Burton Muchemi Part 1]()
+![](https://github.com/adhulappanavar/learning_resources/raw/master/images/payments_3_BurtonMuchemi_part1.png)
+
+[iso 8583 parser - introduction by Burton MuchemiPart -2]()
+![](https://github.com/adhulappanavar/learning_resources/raw/master/images/payments_3_BurtonMuchemi_part1.png)
+
+https://www.youtube.com/playlist?list=PLF5ol4KkkUE4JYYxi4PwZB37TwlrJwK7A
