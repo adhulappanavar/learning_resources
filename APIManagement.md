@@ -25,7 +25,14 @@ https://konghq.com/blog/kong-istio-setting-service-mesh-kubernetes-kiali-observa
 https://www.youtube.com/watch?v=brsIQgafg-c
 
 -----
+### Using Ambassador (API GATEWAY) with ENVOY to Build Cloud-Native Applications - Steve Flanders, Omnition
 
+[![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/KM_5sDfgqB8/0.jpg)](https://www.youtube.com/watch?v=KM_5sDfgqB8)
+
+
+https://www.youtube.com/watch?v=KM_5sDfgqB8
+
+----
 ## API Management Softwares
 
 https://www.youtube.com/watch?v=JXdd_D4R17s&list=PL_OwzAze_jNtvxroEljBC5vj1dLd44uL3&index=4
