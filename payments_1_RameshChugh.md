@@ -31,3 +31,10 @@ CT19onxnBB0
 
 
 [![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/CT19onxnBB0/0.jpg)](https://www.youtube.com/watch?v=CT19onxnBB0)
+
+
+[Card & Payment Expert Ramesh Chugh]()
+![](https://github.com/adhulappanavar/learning_resources/raw/master/images/payments_1_RameshChugh_vid_1_to_7.png)
+
+[Card & Payment Expert Ramesh Chugh]()
+![](https://github.com/adhulappanavar/learning_resources/raw/master/images/payments_1_RameshChugh_vid_8_to_15.png)
