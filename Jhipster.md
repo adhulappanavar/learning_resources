@@ -62,3 +62,10 @@ https://developer.okta.com/blog/2018/06/25/react-spring-boot-photo-gallery-pwa
 
 
 -----
+
+## Monitoring a JHipster microservice architecture in practice (Pierre Besson)
+
+[![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/NpLef-jmX2Y/0.jpg)](https://www.youtube.com/watch?v=NpLef-jmX2Y)
+
+https://www.youtube.com/watch?v=NpLef-jmX2Y
+----

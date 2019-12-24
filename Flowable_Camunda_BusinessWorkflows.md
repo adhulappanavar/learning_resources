@@ -1,0 +1,41 @@
+
+# Kafka on Kubernetes
+
+
+## Flowable business processing from Kafka events by Tijs Rademakers & Joram Barrez
+[![Kafka](https://img.youtube.com/vi/nX0dRiPqOmk/0.jpg)](https://www.youtube.com/watch?v=nX0dRiPqOmk)
+
+
+
+https://www.youtube.com/watch?v=nX0dRiPqOmk
+
+-----
+
+## Workflow Automation in Microservices Architectures: Camunda Day Amsterdam 2019
+
+[![Kafka](https://img.youtube.com/vi/6bF_1w6GeEI/0.jpg)](https://www.youtube.com/watch?v=6bF_1w6GeEI)
+
+
+
+https://www.youtube.com/watch?v=6bF_1w6GeEI
+
+------
+
+## How to run the flowing retail example with Zeebe in Camunda Cloud
+
+https://www.youtube.com/watch?v=sYV7U_sAnRQ
+
+----
+
+
+----
+
+## Get Started With Camunda and Spring boot
+
+https://www.youtube.com/watch?v=sHgf_EsQzfc&t=24s
+
+## Learn Camunda with Niall (Playlist)
+https://www.youtube.com/watch?v=sHgf_EsQzfc&list=PLJG25HlmvsOUnCziyJBWzcNh7RM5quTmv&index=1
+
+---
+
