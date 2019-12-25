@@ -9,6 +9,14 @@
 
 https://www.youtube.com/watch?v=nX0dRiPqOmk
 
+----
+## Spring Tips: Business Process Management with Flowable by Josh Long
+
+[![Kafka](https://img.youtube.com/vi/43_OLrxU3so/0.jpg)](https://www.youtube.com/watch?v=43_OLrxU3so)
+
+https://www.youtube.com/watch?v=43_OLrxU3so
+
+
 -----
 
 ## Workflow Automation in Microservices Architectures: Camunda Day Amsterdam 2019
