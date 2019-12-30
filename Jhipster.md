@@ -15,6 +15,15 @@ https://medium.com/@simionrazvan/microservices-using-jhipster-kubernetes-istio-b
 
 https://www.youtube.com/watch?v=eqEFywYcm04
 ----
+## JHipster - microservices by Andrei Mihaescu
+## UAA, Conference and Gateway Microservice with Gitlab CI/CD, Sonar, Kibana on Google - Kubernetes
+
+[![Mithun width="240" height="180" border="100"](https://img.youtube.com/vi/NiZ_Hyf6KW4/0.jpg)](https://www.youtube.com/watch?v=NiZ_Hyf6KW4)
+
+
+https://www.youtube.com/watch?v=NiZ_Hyf6KW4&list=PLonYunRuVgFKRg78FPT1Y0bNmwYxFw4Kh
+
+
 ----
 ## Microservices with Istio, JHipster and Kubernetes
 
