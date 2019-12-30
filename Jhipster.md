@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=eqEFywYcm04
 
 https://www.youtube.com/watch?v=NiZ_Hyf6KW4&list=PLonYunRuVgFKRg78FPT1Y0bNmwYxFw4Kh
 
+https://gitlab.com/atomfrede/jug-th-demo-1
+
 
 ----
 ## Microservices with Istio, JHipster and Kubernetes
