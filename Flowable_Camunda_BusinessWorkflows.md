@@ -47,3 +47,18 @@ https://www.youtube.com/watch?v=sHgf_EsQzfc&list=PLJG25HlmvsOUnCziyJBWzcNh7RM5qu
 
 ---
 
+----
+
+## Kogito
+
+https://www.youtube.com/watch?v=Igo8PHEK4WE
+
+[![Kafka](https://img.youtube.com/vi/Igo8PHEK4WE/0.jpg)](https://www.youtube.com/watch?v=Igo8PHEK4WE)
+
+https://medium.com/@balakrishnan.b/tutorial-cloud-native-business-automation-with-kogito-dcef51d8f4fb
+
+https://github.com/bbalakriz/kogito
+
+---
+
+
